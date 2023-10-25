@@ -1,1 +1,1 @@
-# Numpy_ls
+# Numpy lesson
